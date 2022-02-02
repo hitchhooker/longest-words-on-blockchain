@@ -15,4 +15,4 @@ Seems like even Google ain't getting it right so, here an explanation for you.
 | **Rinnakkaislohkoketjupaikattomuuttaansakkaankohan** Alice koodasi älysopimuksen? | **I wonder if** Alice programmed a smart contract **due to not having a parachain slot?** |
 
 Audio example:  
-<audio src="rinnakkaislohkoketjupaikattomuuttaansakkaankohan.ogg" type="audio/ogg" controls/>
+https://user-images.githubusercontent.com/15621959/152090931-b603a6bb-18c2-470f-9fee-26ea520f83a2.mp4
